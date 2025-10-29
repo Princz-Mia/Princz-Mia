@@ -35,17 +35,6 @@ I build reliable backend services with **Java, Spring Boot, and PostgreSQL**, an
 
 ---
 
-## Experience
-- **Ericsson — Java Software Engineer Intern** (Apr 2025 → present)  
-  In an Agile team build and test JVM microservices for Ericsson’s Telco DataOps Platform (unified data
-collection/processing/governance for telco OSS/BSS) using Java, Spring Boot, Kafka, Flink, and PostgreSQL; ship
-containerized services with Docker and Kubernetes
-
-- **Teaching Assistant — BME**  
-  Supported lab sessions and mentoring; helping students translate theory into maintainable, tested code.
-
----
-
 ## Activity & commit frequency
 
 These update automatically from my public GitHub activity:
