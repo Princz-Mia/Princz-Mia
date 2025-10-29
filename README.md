@@ -37,8 +37,6 @@ I build reliable backend services with **Java, Spring Boot, and PostgreSQL**, an
 
 ## Activity & commit frequency
 
-These update automatically from my public GitHub activity:
-
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Princz-Mia&show_icons=true&include_all_commits=true&hide=issues&rank_icon=github" alt="Mia's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princz-Mia&layout=compact&langs_count=8&hide=html,css" alt="Top languages" />
