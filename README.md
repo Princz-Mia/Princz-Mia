@@ -6,7 +6,7 @@ I build reliable backend services with **Java, Spring Boot, and PostgreSQL**, an
 
 - 📍 Budapest, Hungary
 - ✉️ `princz.mia@gmail.com`
-- 🌐 [mia-princz.com](https://mia-princz.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/mia-princz) · 💻 [GitHub](https://github.com/Princz-Mia)
+- 🌐 [mia-princz.com](https://mia-princz.com) · 🔗 [LinkedIn]([https://www.linkedin.com/in/mia-princz](https://www.linkedin.com/in/mia-princz-445602347/)) · 💻 [GitHub](https://github.com/Princz-Mia)
 
 ---
 
@@ -51,7 +51,7 @@ I build reliable backend services with **Java, Spring Boot, and PostgreSQL**, an
 ## Get in touch
 
 - Email: `princz.mia@gmail.com`  
-- LinkedIn: https://www.linkedin.com/in/mia-princz  
+- LinkedIn: [https://www.linkedin.com/in/mia-princz](https://www.linkedin.com/in/mia-princz-445602347/)
 - Portfolio: https://mia-princz.com
 
 *Thanks for stopping by — and feel free to reach out if you’d like to pair on something interesting.*
