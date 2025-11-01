@@ -1,6 +1,6 @@
 # Hi, I'm Mia Princz
 
-**Final-year B.Sc. Computer Engineering student @ BME** · **Java Software Engineer Intern @ Ericsson** · **Teaching Assistant @ BME**
+**Final-year B.Sc. Computer Engineering student @ BME** — **Java Software Engineer Intern @ Ericsson** — **Teaching Assistant @ BME**
 
 I build reliable backend services with **Java, Spring Boot, and PostgreSQL**, and I care about clear APIs, tests, and automation. As a TA, I help students in applying core programming concepts; clarify assignments and provide code reviews/feedback — teaching and programming are my two big passions.
 
