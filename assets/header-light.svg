@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title">
+  <title id="title">Mia Princz, Software Engineer</title>
+  <style>
+    .panel { fill: #f6f8fa; stroke: #d0d7de; }
+    .name { fill: #1f2328; font: 600 64px -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; letter-spacing: -1px; }
+    .role { fill: #0969da; font: 400 24px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .node { fill: #ffffff; stroke: #8c959f; stroke-width: 1.5; }
+    .node-active { fill: #ffffff; stroke: #0969da; stroke-width: 2; }
+    .label { fill: #1f2328; font: 400 20px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; }
+    .edge-label { fill: #59636e; font: 400 17px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; text-anchor: middle; }
+    .edge { fill: none; stroke: #8c959f; stroke-width: 1.5; }
+    .start, .head { fill: #8c959f; }
+    .label-gap { fill: #f6f8fa; }
+  </style>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto">
+      <path class="head" d="M0 0 L10 5 L0 10 Z"/>
+    </marker>
+  </defs>
+
+  <rect class="panel" x="1" y="1" width="1198" height="238" rx="12"/>
+
+  <text class="name" x="56" y="116">Mia Princz</text>
+  <text class="role" x="58" y="160">Software Engineer</text>
+
+  <!-- A small statechart: model, build, verify, and refine back into the model -->
+  <circle class="start" cx="640" cy="98" r="7"/>
+  <path class="edge" d="M647 98 H678" marker-end="url(#arrow)"/>
+
+  <rect class="node" x="680" y="74" width="112" height="48" rx="24"/>
+  <text class="label" x="736" y="105">model</text>
+  <path class="edge" d="M792 98 H846" marker-end="url(#arrow)"/>
+
+  <rect class="node" x="848" y="74" width="112" height="48" rx="24"/>
+  <text class="label" x="904" y="105">build</text>
+  <path class="edge" d="M960 98 H1014" marker-end="url(#arrow)"/>
+
+  <rect class="node-active" x="1016" y="74" width="112" height="48" rx="24"/>
+  <text class="label" x="1072" y="105">verify</text>
+
+  <path class="edge" d="M1072 122 V172 Q1072 182 1062 182 H746 Q736 182 736 172 V124" marker-end="url(#arrow)"/>
+  <rect class="label-gap" x="864" y="172" width="80" height="20"/>
+  <text class="edge-label" x="904" y="188">refine</text>
+</svg>
